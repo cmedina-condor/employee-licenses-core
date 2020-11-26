@@ -1,0 +1,2 @@
+com/evercheck/androidApp/BuildConfig.java
+ com.evercheck.androidApp.BuildConfig
